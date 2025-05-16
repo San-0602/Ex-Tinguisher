@@ -6,14 +6,14 @@ Ex-helper is a mini Android app designed to help you move on from past relations
 
 Features:
 
-Randomly delivers sarcastic and brutally honest “breakup therapy” lines
+-Randomly delivers sarcastic and brutally honest “breakup therapy” lines
 
-Simple, clean UI with a fun vibe
+-Simple, clean UI with a fun vibe
 
-Perfect for those who want to cope and laugh
+-Perfect for those who want to cope and laugh
 
-Lightweight and easy to use
+-Lightweight and easy to use
 
 Why Ex-helper?
 
-Because sometimes the best therapy is a little humor and a lot of attitude.
+-Because sometimes the best therapy is a little humor and a lot of attitude.
