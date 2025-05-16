@@ -2,7 +2,7 @@
 
 Ex-Tinguisher: The Sarcastic Breakup Buddy 💔😎 
 
-Ex-helper is a mini Android app designed to help you move on from past relationships, but with a twist. Instead of boring, generic advice, it serves up hilarious, savage roast lines to make you laugh, vent, and heal all at once.
+Ex-tinguisher is a mini Android app designed to help you move on from past relationships, but with a twist. Instead of boring, generic advice, it serves up hilarious, savage roast lines to make you laugh, vent, and heal all at once.
 
 Features:
 
@@ -14,6 +14,6 @@ Features:
 
 -Lightweight and easy to use
 
-Why Ex-helper?
+Why Ex-tinguisher?
 
 -Because sometimes the best therapy is a little humor and a lot of attitude.
